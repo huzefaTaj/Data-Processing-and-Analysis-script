@@ -1,0 +1,14 @@
+Transaction Date,Account Number,Transaction Type,Amount,Description
+2023-06-07,ACC1003,Online Transfer,-4605,Rent
+2023-08-02,ACC1009,Direct Debit,4793,Groceries
+2023-01-27,ACC1007,Deposit,4830,Utilities
+2023-07-26,ACC1003,ATM Withdrawal,-4574,Transfer
+2023-08-26,ACC1006,Deposit,4976,Rent
+2023-02-23,ACC1005,Direct Debit,4825,Utilities
+2023-02-17,ACC1000,Withdrawal,-4752,Online Purchase
+2023-01-10,ACC1009,Withdrawal,4853,Utilities
+2023-03-01,ACC1001,Card Payment,4903,Utilities
+2023-06-19,ACC1007,Card Payment,4863,Transfer
+2023-09-14,ACC1004,Deposit,-4780,Salary
+2023-07-21,ACC1007,Withdrawal,-4848,Transfer
+2023-07-22,ACC1004,Deposit,4851,Rent
